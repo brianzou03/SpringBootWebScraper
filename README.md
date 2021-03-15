@@ -8,10 +8,10 @@ Spring Boot is the framework of the project. It allows for easier wiring of the 
 There are two use cases as listed below:
 
 ### Scrape /api/scrape
-browser ⮕ controller ⮕ service ⮕ scraper ⮕ repository ⮕ JPA ⮕ h2 database
+browser --> controller --> service --> scraper --> repository --> JPA --> h2 database
 
 ### Browser Display Products /api/products
-browser ⮕ controller ⮕ service ⮕ repository ⮕ JPA ⮕ h2 database
+browser --> controller --> service --> repository --> JPA --> h2 database
 
 ## Prerequisites
 
